@@ -17,7 +17,7 @@ Look at our docs.
 Also in the docs.
 
 ## Where are the docs?
-Head over here: *link soon*
+Head over to the wiki tab, or just click here: [To the wiki!](https://github.com/SuperBoyne/ASCII-Video-Format/wiki)
 
 ## But why?
 Mainly I did this for fun, but there are a few practical uses as well.
